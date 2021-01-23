@@ -1,0 +1,36 @@
+body {
+  background-color: #31344e;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: none;
+}
+
+.trans {
+  transition: color .5s linear;
+}
+
+h1:hover {
+  color: #696969;
+}
+
+ p {
+  font-weight: 300px;
+  max-width: 300px;
+  flex-direction: column;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 15px;s
+}
+
+footer {
+  text-align: center;
+  padding-top: 50px;
+}
+
+footer:hover {
+  color: #696969;
+  transition: color .5s linear; 
+}
